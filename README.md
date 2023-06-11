@@ -6,11 +6,15 @@
 
 ##### 📚 Tools
 ###### 💻 Programming
-<a href="..." target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=000000"/></a>
-<a href="..." target="_blank"><img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=000000"/></a>
-<a href="..." target="_blank"><img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=000000"/></a>
-<a href="..." target="_blank"><img src="https://img.shields.io/badge/aftereffects-9999FF?style=flat&logo=adobeaftereffects&logoColor=000000"/></a>
-<a href="..." target="_blank"><img src="https://img.shields.io/badge/cinema4d-011A6A?style=flat&logo=cinema4d&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=ffffff"/></a>
+
 
 ###### 🎨 Design
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=000000"/></a>
