@@ -1,7 +1,8 @@
 ### 안녕하세요 반갑습니다 👋
 
 ##### 💾 Portfolio
-<a href="https://www.notion.so/twoju" target="_blank"><img src="https://img.shields.io/badge/notion-F5EEDC?style=flat&logo=notion&logoColor=000000"/></a>
+<!-- <a href="https://www.notion.so/twoju" target="_blank"><img src="https://img.shields.io/badge/notion-F5EEDC?style=flat&logo=notion&logoColor=000000"/></a> -->
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/notion-F5EEDC?style=flat&logo=notion&logoColor=000000"/></a>
 <a href="https://www.behance.net/dnjswn9178" target="_blank"><img src="https://img.shields.io/badge/behance-1769FF?style=flat&logo=behance&logoColor=ffffff"/></a>
 
 ##### 📚 Tools
