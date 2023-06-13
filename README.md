@@ -23,7 +23,7 @@
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/aftereffects-9999FF?style=flat&logo=adobeaftereffects&logoColor=000000"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/cinema4d-011A6A?style=flat&logo=cinema4d&logoColor=ffffff"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoju&layout=compact)](https://github.com/twoju/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoju&langs_count=6&layout=compact)](https://github.com/twoju/github-readme-stats)
 
 ![Twoju's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoju&show_icons=true&theme=graywhite)
 
