@@ -6,13 +6,15 @@
 
 ##### 📚 Tools
 ###### 💻 Programming
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=ffffff"/></a>
-<a href="..." target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=ffffff"/></a>
-<a href="..." target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=ffffff"/></a>
 
 
@@ -23,9 +25,8 @@
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/aftereffects-9999FF?style=flat&logo=adobeaftereffects&logoColor=000000"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/cinema4d-011A6A?style=flat&logo=cinema4d&logoColor=ffffff"/></a>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twoju)](https://solved.ac/twoju)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoju&langs_count=6&layout=compact)](https://github.com/twoju/github-readme-stats)
-
-![Twoju's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoju&show_icons=true&theme=graywhite)
 
 <!--
 **twoju/twoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
