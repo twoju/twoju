@@ -1,19 +1,21 @@
 ### 안녕하세요 반갑습니다 👋
 
-##### 💾 Portfolio
+#### 💾 Portfolio
 <a href="https://www.notion.so/twoju/Portfolio-a13d8899ceee4f02b96b74bf901b20e6?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-F5EEDC?style=flat&logo=notion&logoColor=000000"/></a>
 <a href="https://www.behance.net/dnjswn9178" target="_blank"><img src="https://img.shields.io/badge/behance-1769FF?style=flat&logo=behance&logoColor=ffffff"/></a>
 
-##### 📚 Tools
+#### 📚 Tools
 ###### 💻 Programming
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=ffffff"/></a>
-<a href="..." target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styledcomponents&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=ffffff"/></a>
+<a href="..." target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=ffffff"/></a>
 <a href="..." target="_blank"><img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=ffffff"/></a>
 
